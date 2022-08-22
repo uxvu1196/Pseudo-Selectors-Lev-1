@@ -1,0 +1,11 @@
+a:hover {
+background-color: #7E3661;
+}
+
+a:visited{
+    background-color: #FCB941;
+}
+
+a:active{
+    font-size: 3rem;
+}
